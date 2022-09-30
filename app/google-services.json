@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113407206275",
+    "project_id": "wclaimer-538ab",
+    "storage_bucket": "wclaimer-538ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113407206275:android:eafff946e4aa32f2fb0cb6",
+        "android_client_info": {
+          "package_name": "com.cenmetrix.wclaimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113407206275-p51joikbmcm2ejtjdv5ro2o9fmau5af1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZm7UzJj9mSQGXDju6yKrDJ3_qUYj4AdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113407206275-p51joikbmcm2ejtjdv5ro2o9fmau5af1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
